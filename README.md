@@ -8,15 +8,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMaresDev&layout=compact&theme=tokyonight)
 
-### Current Languages 🚀
+## Current Languages 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-### Other Tools ☄️
+## Other Tools ☄️
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,wordpress,netlify,windows,figma,discord)](https://skillicons.dev)
 
-### Streaks 🔥
+## Streaks 🔥
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdrianMaresDev&theme=tokyonight)](https://git.io/streak-stats)
 
