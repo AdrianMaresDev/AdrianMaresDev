@@ -3,7 +3,7 @@
 💻 Software engineer based in Atlanta sharing my journey about starting in tech</br>
 💼 Studied global business at [Musashino University](https://www.musashino-u.ac.jp/academics/faculty/global_studies/global_business/) in Tokyo</br>
 🌱 Currently practicing Javascript and always trying to improve my skills</br>
-💭 Learning React and Node.js, super interested in design, UX/UI, and Three.js</br>
+💭 Learning about APIs, super interested in UX/UI design and Three.js</br>
 🏳️‍🌈 Inclusivity driven and part of the LGBT community
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMaresDev&layout=compact&theme=tokyonight)
