@@ -1,4 +1,4 @@
-## Hi, I'm Adrian (he/him) ⭐
+## Hi, I'm Adrian ⭐ (he/him)
 
 💻 Software engineer based in Atlanta sharing my journey about starting in tech</br>
 💼 Studied global business at [Musashino University](https://www.musashino-u.ac.jp/academics/faculty/global_studies/global_business/) in Tokyo</br>
