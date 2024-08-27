@@ -1,10 +1,10 @@
 ## Hi, I'm Adrian ⭐ (he/him)
 
-💻 Software engineer based in Atlanta sharing my journey about starting in tech</br>
+💻 Software engineer based in Atlanta</br>
 💼 Studied global business at [Musashino University](https://www.musashino-u.ac.jp/academics/faculty/global_studies/global_business/) in Tokyo</br>
-🌱 Currently practicing Javascript and moving into the backend</br>
-💭 Super interested in learning UX/UI, design, and Three.js</br>
-🏳️‍🌈 Inclusivity driven and part of the LGBT community
+🌱 Currently using Javascript and moving into backend development</br>
+💭 Interested in learning about UX/UI, design, and Three.js</br>
+🏳️‍🌈 Inclusivity driven and a part of the LGBT community
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMaresDev&layout=compact&theme=tokyonight)
 
