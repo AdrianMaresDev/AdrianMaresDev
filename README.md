@@ -20,5 +20,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdrianMaresDev&theme=tokyonight)](https://git.io/streak-stats)
 
-Let's Connect! Follow me on [X](https://x.com/MaresDev)<br>
-🥊 Small fun fact: I love recreational boxing in my free time and I've been doing so for a little over a year
+Let's Connect! Follow me on [X](https://x.com/MaresDev)
