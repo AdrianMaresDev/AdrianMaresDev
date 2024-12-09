@@ -2,8 +2,8 @@
 
 💻 Software engineer based in Atlanta</br>
 💼 Studied global business at [Musashino University](https://www.musashino-u.ac.jp/academics/faculty/global_studies/global_business/) in Tokyo</br>
-🌱 Currently using Javascript and moving into backend development</br>
-💭 Interested in learning about UX/UI, design, and React</br>
+🌱 Currently learning React, Node.js, and Express</br>
+💭 Interested in learning Three.js and 3D content creation</br>
 🏳️‍🌈 Inclusivity driven and a part of the LGBT community
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMaresDev&layout=compact&theme=tokyonight)
@@ -14,10 +14,10 @@
 
 ## Other Tools ☄️
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,tailwind,nodejs,netlify,windows,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,tailwind,nodejs,express,netlify,windows,figma)](https://skillicons.dev)
 
 ## Streaks 🔥
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdrianMaresDev&theme=tokyonight)](https://git.io/streak-stats)
 
-Let's Connect! Follow me on [X](https://x.com/MaresDev)
+Let's Connect! Find me on [X](https://x.com/MaresDev) or on [LinkedIn](https://www.linkedin.com/in/adrianmaresca/)
