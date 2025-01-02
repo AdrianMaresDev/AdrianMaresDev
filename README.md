@@ -14,7 +14,7 @@
 
 ## Other Tools ☄️
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,tailwind,nodejs,react,express,netlify,windows,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,tailwind,nodejs,react,express,netlify,windows,sqlite)](https://skillicons.dev)
 
 ## Streaks 🔥
 
